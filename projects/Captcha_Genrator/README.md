@@ -1,5 +1,5 @@
-# Captcha Genrator 
-A simple image captcha genrator
+# Captcha Generator 
+A simple image captcha generator
 
 ### Prerequisites
 1. Install the dependencies by executing the following command 
