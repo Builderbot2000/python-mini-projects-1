@@ -1,6 +1,6 @@
 # Battery Notificator
 
-This python script gives you a notification about your battery percentage of the device.
+This python script gives you a notification of the battery percentage on your device.
 
 ## Pre-requisites:
 
