@@ -4,13 +4,11 @@ Please have python3 installed to run this project on terminal:
 
 # CountDown Timer
 <!--Remove the below lines and add yours -->
-Countdown timer made using the Python time module and is a terminal game to countdown the time.
+Console-based countdown timer that utilizes python time module to keep track of when a certain time duration expires. 
 
 ### Prerequisites
 <!--Remove the below lines and add yours -->
-Modules required to be able to use the script successfully
-and how to install them.
-Please have python3 installed to run this project on terminal:
+None (Project is made with pure Python)
 
 
 ### How to run the script
