@@ -1,17 +1,16 @@
 # Finding Dominant Color  
 
-- This script will take a image and it will find dominant color in it .
+- This script will analyze an image given its filepath and find the dominant color within that image.
 
 ### Prerequisites
-- You only need to have installed opencv which is used for image preprocesssing.
+- You only need to have installed opencv which is used for image preprocessing.
 - Run the below script to install opencv
 - $ pip install opencv-python
 
 ### How to run the script
--Run below command 
-- python find-color.py
-- Now Enter the path for image 
-- Copy Your image path and enter in the command
+Run the below commands: 
+1. Run ``python find-color.py`` on console
+2. Enter the filepath for the image
 
 ### Screenshot showing the sample use of the script
 
